@@ -1,0 +1,46 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "name": "exam",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "exam (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "exam (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "baabtra_mechinetest",
+            "cwd": "baabtra_mechinetest",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "baabtra_mechinetest (profile mode)",
+            "cwd": "baabtra_mechinetest",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "baabtra_mechinetest (release mode)",
+            "cwd": "baabtra_mechinetest",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
